@@ -12,7 +12,7 @@ menu.innerHTML = `<div style="width:240px; left: 1px; top: 1px; background-color
 <h3 style="font-size: 19px; font-style: normal !important; color: white !important;">iFrame</h3>
 <button onclick="iframe()">Get</button>
 <br><br>
-<h1 style="font-size: 12px; font-style: normal !important; color: white !important;">Made by DU#5175</h1>
+<h1 style="font-size: 12px; font-style: normal !important; color: white !important;"></h1>
 </div>`
 
 // minified drag element code
